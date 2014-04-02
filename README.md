@@ -21,4 +21,4 @@ minutes). This is in correspondence to the rules of my provider (Tele2).
 with your own data (e.g. taken from `https://www.mijnmobiel.tele2.nl/#bills`).
 Unfortunately, Tele2 does not support exporting this data, so you need to copy
 paste this from their dashboard.
-2. Run `ruby calculator.rb'
+2. Run `ruby calculator.rb`
